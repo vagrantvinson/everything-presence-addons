@@ -4,7 +4,7 @@
 
 ## About
 
-Home Assistant add-ons for Everything Presence One/Lite/Pro mmWave presence sensors.
+Home Assistant add-ons for Everything Presence One/Lite/Pro and DIY LD2450 mmWave presence sensors.
 
 ## Install Repository
 
