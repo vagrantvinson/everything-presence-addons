@@ -6,6 +6,8 @@
 
 Home Assistant add-ons for Everything Presence One/Lite/Pro and DIY LD2450 mmWave presence sensors.
 
+<img width="3743" height="1923" alt="image" src="https://github.com/user-attachments/assets/50055222-89a6-4a13-876a-494f05dd8b47" />
+
 ## Install Repository
 
 Use this installation method **ONLY** if you have a [Home Assistant OS Installation][ha-install-docs], if you have another installation type that does not support [Add-ons][ha-addons-docs], you should use the standalone Dockers.
