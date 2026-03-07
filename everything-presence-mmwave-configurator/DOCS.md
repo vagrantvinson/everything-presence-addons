@@ -19,7 +19,7 @@ Use this installation method **ONLY** if you have a [Home Assistant OS Installat
 
         1. Click the 3 dots icon in the upper right, then click **`Repository`**.
 
-        1. In the Add field, paste **`https://github.com/EverythingSmartHome/everything-presence-addons`**.
+        1. In the Add field, paste **`https://github.com/vagrantvinson/everything-presence-addons`**.
 
         1. Click **`+ Add`** then **`Close`**.
 
@@ -65,13 +65,13 @@ Use this installation method **ONLY** if you have a [Home Assistant OS Installat
 <!-- shields.io -->
 
 [stars-shield]: https://img.shields.io/github/stars/EverythingSmartHome/everything-presence-addons
-[repo]: https://github.com/EverythingSmartHome/everything-presence-addons
+[repo]: https://github.com/vagrantvinson/everything-presence-addons
 
 [discord-shield]: https://img.shields.io/discord/719115387425521704.svg
 [discord]: https://discord.gg/Bgfvy2f
 
 [release-shield]: https://img.shields.io/github/v/release/EverythingSmartHome/everything-presence-addons.svg
-[release]: https://github.com/EverythingSmartHome/everything-presence-addons/releases
+[release]: https://github.com/vagrantvinson/everything-presence-addons/releases
 
 <!-- Zone Configurator Documentation -->
 
@@ -82,7 +82,7 @@ Use this installation method **ONLY** if you have a [Home Assistant OS Installat
 <!-- Home Assistant Links -->
 
 [ha-addon-svg]: https://my.home-assistant.io/badges/supervisor_addon.svg
-[ha-addon-url]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=234db91b_everything-presence-zone-configurator&repository_url=https%3A%2F%2Fgithub.com%2FEverythingSmartHome%2Feverything-presence-addons
+[ha-addon-url]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=234db91b_everything-presence-zone-configurator&repository_url=https://github.com/vagrantvinson/everything-presence-addons
 
 [ha-install-docs]: https://www.home-assistant.io/installation/
 [ha-addons-docs]: https://www.home-assistant.io/addons/
