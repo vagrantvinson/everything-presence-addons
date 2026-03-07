@@ -55,18 +55,18 @@ For more information about Everything Presence devices, visit [Everything Smart 
 <!-- shields.io -->
 
 [stars-shield]: https://img.shields.io/github/stars/EverythingSmartHome/everything-presence-addons
-[repo]: https://github.com/EverythingSmartHome/everything-presence-addons
+[repo]: https://github.com/vagrantvinson/everything-presence-addons
 
 [discord-shield]: https://img.shields.io/discord/719115387425521704.svg
 [discord]: https://discord.gg/Bgfvy2f
 
 [release-shield]: https://img.shields.io/github/v/release/EverythingSmartHome/everything-presence-addons.svg
-[release]: https://github.com/EverythingSmartHome/everything-presence-addons/releases
+[release]: https://github.com/vagrantvinson/everything-presence-addons/releases
 
 <!-- Home Assistant Links -->
 
 [ha-addon-repo-svg]: https://my.home-assistant.io/badges/supervisor_store.svg
-[ha-addon-repo-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/EverythingSmartHome/everything-presence-addons
+[ha-addon-repo-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/vagrantvinson/everything-presence-addons
 
 [ha-install-docs]: https://www.home-assistant.io/installation/
 [ha-addons-docs]: https://www.home-assistant.io/addons/
