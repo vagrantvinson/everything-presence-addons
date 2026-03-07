@@ -20,7 +20,7 @@ Use this installation method **ONLY** if you have a [Home Assistant OS Installat
 
         1. Click the 3 dots icon in the upper right, then click **`Repository`**.
 
-        1. In the Add field, paste **`https://github.com/EverythingSmartHome/everything-presence-addons`**.
+        1. In the Add field, paste **`https://github.com/vagrantvinson/everything-presence-addons`**.
 
         1. Click **`+ Add`** then **`Close`**.
 
